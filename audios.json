@@ -1,0 +1,194 @@
+{
+  "version": "1.0.0",
+  "ultimaActualizacion": "2026-05-06",
+  "programas": {
+    "conecta-con-el-presente": {
+      "modulos": {
+        "Abre los ojos": {
+          "fechaDesbloqueo": "2026-05-09",
+          "ejerciciosVisualizacion": [
+            {
+              "id": "ev1_1",
+              "dia": 1,
+              "titulo": "La Isla",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-11"
+            },
+            {
+              "id": "ev1_2",
+              "dia": 2,
+              "titulo": "Tus manos",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-12"
+            },
+            {
+              "id": "ev1_3",
+              "dia": 3,
+              "titulo": "Esa persona",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-13"
+            },
+            {
+              "id": "ev1_4",
+              "dia": 4,
+              "titulo": "La silla vacía",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-14"
+            },
+            {
+              "id": "ev1_5",
+              "dia": 5,
+              "titulo": "Scrooge",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-15"
+            }
+          ]
+        },
+        "Comienza el camino": {
+          "fechaDesbloqueo": "2026-05-16",
+          "ejerciciosVisualizacion": [
+            {
+              "id": "ev2_1",
+              "dia": 1,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-18"
+            },
+            {
+              "id": "ev2_2",
+              "dia": 2,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-19"
+            },
+            {
+              "id": "ev2_3",
+              "dia": 3,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-20"
+            },
+            {
+              "id": "ev2_4",
+              "dia": 4,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-21"
+            },
+            {
+              "id": "ev2_5",
+              "dia": 5,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-22"
+            }
+          ]
+        },
+        "Los principios y la técnica": {
+          "fechaDesbloqueo": "2026-05-23",
+          "ejerciciosVisualizacion": [
+            {
+              "id": "ev3_1",
+              "dia": 1,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-25"
+            },
+            {
+              "id": "ev3_2",
+              "dia": 2,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-26"
+            },
+            {
+              "id": "ev3_3",
+              "dia": 3,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-27"
+            },
+            {
+              "id": "ev3_4",
+              "dia": 4,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-28"
+            },
+            {
+              "id": "ev3_5",
+              "dia": 5,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-05-29"
+            }
+          ]
+        },
+        "Tu cerebro ya ha cambiado": {
+          "fechaDesbloqueo": "2026-05-30",
+          "ejerciciosVisualizacion": [
+            {
+              "id": "ev4_1",
+              "dia": 1,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-06-01"
+            },
+            {
+              "id": "ev4_2",
+              "dia": 2,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-06-02"
+            },
+            {
+              "id": "ev4_3",
+              "dia": 3,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-06-03"
+            },
+            {
+              "id": "ev4_4",
+              "dia": 4,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-06-04"
+            },
+            {
+              "id": "ev4_5",
+              "dia": 5,
+              "titulo": "",
+              "duracion": "",
+              "audioUrl": "",
+              "fechaDesbloqueo": "2026-06-05"
+            }
+          ]
+        },
+        "Clausura": {
+          "fechaDesbloqueo": "2026-06-07",
+          "ejerciciosVisualizacion": []
+        }
+      }
+    }
+  }
+}
