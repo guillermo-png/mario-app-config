@@ -10,7 +10,7 @@
             {
               "id": "ev1_1",
               "dia": 1,
-              "titulo": "La Isla FUNCIONA",
+              "titulo": "La Isla hola",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-11"
@@ -18,7 +18,7 @@
             {
               "id": "ev1_2",
               "dia": 2,
-              "titulo": "Tus manos TEST",
+              "titulo": "Tus manos",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-12"
@@ -26,7 +26,7 @@
             {
               "id": "ev1_3",
               "dia": 3,
-              "titulo": "Esa persona TEST 2",
+              "titulo": "Esa persona 2",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-13"
