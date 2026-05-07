@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "ultimaActualizacion": "2026-05-06",
   "programas": {
     "conecta-con-el-presente": {
@@ -10,7 +10,7 @@
             {
               "id": "ev1_1",
               "dia": 1,
-              "titulo": "La Isla",
+              "titulo": "La isla que ves",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-11"
@@ -18,7 +18,7 @@
             {
               "id": "ev1_2",
               "dia": 2,
-              "titulo": "Tus manos",
+              "titulo": "Tus manos sanadoras",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-12"
@@ -34,7 +34,7 @@
             {
               "id": "ev1_4",
               "dia": 4,
-              "titulo": "La silla vacía",
+              "titulo": "El silencio",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-14"
@@ -42,7 +42,7 @@
             {
               "id": "ev1_5",
               "dia": 5,
-              "titulo": "Scrooge",
+              "titulo": "La silla vacía",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-15"
@@ -55,7 +55,7 @@
             {
               "id": "ev2_1",
               "dia": 1,
-              "titulo": "",
+              "titulo": "Tu momento de libertad",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-18"
@@ -63,7 +63,7 @@
             {
               "id": "ev2_2",
               "dia": 2,
-              "titulo": "",
+              "titulo": "La semilla de la transformación",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-19"
@@ -71,7 +71,7 @@
             {
               "id": "ev2_3",
               "dia": 3,
-              "titulo": "",
+              "titulo": "El muro que creamos",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-20"
@@ -79,7 +79,7 @@
             {
               "id": "ev2_4",
               "dia": 4,
-              "titulo": "",
+              "titulo": "Aprender a soltar",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-21"
@@ -87,7 +87,7 @@
             {
               "id": "ev2_5",
               "dia": 5,
-              "titulo": "",
+              "titulo": "Un paseo para la reflexión",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-22"
@@ -100,7 +100,7 @@
             {
               "id": "ev3_1",
               "dia": 1,
-              "titulo": "",
+              "titulo": "El impulso automático",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-25"
@@ -108,7 +108,7 @@
             {
               "id": "ev3_2",
               "dia": 2,
-              "titulo": "",
+              "titulo": "Bajar el volumen de tu crítico interior",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-26"
@@ -116,7 +116,7 @@
             {
               "id": "ev3_3",
               "dia": 3,
-              "titulo": "",
+              "titulo": "Los 90 segundos de una emoción",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-27"
@@ -124,7 +124,7 @@
             {
               "id": "ev3_4",
               "dia": 4,
-              "titulo": "",
+              "titulo": "La pregunta que busca una nueva respuesta",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-28"
@@ -132,7 +132,7 @@
             {
               "id": "ev3_5",
               "dia": 5,
-              "titulo": "",
+              "titulo": "Una nueva oportunidad",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-05-29"
@@ -145,7 +145,7 @@
             {
               "id": "ev4_1",
               "dia": 1,
-              "titulo": "",
+              "titulo": "El duro invierno",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-06-01"
@@ -153,7 +153,7 @@
             {
               "id": "ev4_2",
               "dia": 2,
-              "titulo": "",
+              "titulo": "El despertador de la primavera",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-06-02"
@@ -161,7 +161,7 @@
             {
               "id": "ev4_3",
               "dia": 3,
-              "titulo": "",
+              "titulo": "Los frutos del verano",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-06-03"
@@ -169,18 +169,10 @@
             {
               "id": "ev4_4",
               "dia": 4,
-              "titulo": "",
+              "titulo": "Los cambios del otoño",
               "duracion": "",
               "audioUrl": "",
               "fechaDesbloqueo": "2026-06-04"
-            },
-            {
-              "id": "ev4_5",
-              "dia": 5,
-              "titulo": "",
-              "duracion": "",
-              "audioUrl": "",
-              "fechaDesbloqueo": "2026-06-05"
             }
           ]
         },
