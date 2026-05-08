@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "ultimaActualizacion": "2026-05-06",
+  "version": "1.2.0",
+  "ultimaActualizacion": "2026-05-08",
   "programas": {
     "conecta-con-el-presente": {
       "modulos": {
@@ -13,6 +13,7 @@
               "titulo": "La isla que ves",
               "duracion": "",
               "audioUrl": "https://marioalonsopuig.com/wp-content/uploads/2026/05/M1-Lunes-La-Isla-1.mp3",
+              "descripcion": "¿Alguna vez has sentido que la vida no es algo que sucede a tu favor, sino algo que opera en tu contra? Existe un cansancio que no se cura durmiendo; es ese peso silencioso de sentir que cada paso cuesta el doble, que el viento siempre sopla en la dirección contraria y que la realidad es un muro con el que tienes que chocar una y otra vez.\n\nTe invito a detenerte unos minutos para cuestionar la única verdad que nunca te has atrevido a dudar. Vamos a asomarnos a un lugar donde las reglas que rigen tu mundo podrían dejar de existir, permitiendo que tu cuerpo experimente, quizás por primera vez en mucho tiempo, lo que significa vivir sin la sospecha de que algo malo está a punto de ocurrir.\n\nSi hoy bajaras la guardia y caminaras con la seguridad de que la vida está a tu lado, ¿qué es lo primero que te atreverías a hacer que hasta ahora no te has atrevido?",
               "fechaDesbloqueo": "2026-05-11"
             },
             {
@@ -21,6 +22,7 @@
               "titulo": "Tus manos sanadoras",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "Tu cuerpo es el único testigo que ha estado presente en cada segundo de tu vida, guardando silenciosamente todo aquello que no pudiste decir, procesar o soltar. A menudo lo tratamos como a un extraño al que solo atendemos cuando se queja, sin darnos cuenta de que en su incomodidad se esconde, quizás, la llave de la calma que tanto tiempo llevas buscando.\n\nTe invito a detenerte unos minutos para abrir un canal de comunicación que ha permanecido cerrado demasiado tiempo. Es el momento de dejar de ver tu cuerpo como una carga y empezar a descubrirlo como el mapa más honesto de tu propia verdad.\n\nSi hoy decidieras dejar de ignorar lo que te duele y empezaras a escuchar tu cuerpo como si fuera un aliado, ¿cuál es el mensaje importante que crees que lleva años intentando que tú le prestes atención?",
               "fechaDesbloqueo": "2026-05-12"
             },
             {
@@ -29,6 +31,7 @@
               "titulo": "Esa persona",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "A veces, para ver de verdad quiénes somos, necesitamos cambiar la perspectiva desde la que nos miramos. Pasamos tanto tiempo juzgando cada uno de nuestros pasos que hemos perdido la capacidad de observar nuestra propia vida con claridad.\n\nHoy no te traigo una técnica, sino el relato de una vida mirada desde un lugar que pocas veces nos atrevemos a habitar: uno de absoluta honestidad, valor y cuidado. Date el permiso de dejar que este relato te atraviese, porque a veces necesitamos alejarnos de nosotros mismos para descubrir lo que siempre ha estado ahí, esperando a ser visto.\n\nEste es un refugio para bajar la guardia y permitir que las palabras calen hondo, mucho antes de que el juicio y la autocrítica intenten levantar de nuevo sus muros. Permítete recibir esta historia como quien recibe un secreto, dejando que el corazón escuche lo que la mente aún no sabe procesar.\n\nSi hoy decidieras tratarte con el mismo cariño que das a esa persona a la que tanto amas, ¿cuál es el primer juicio o exigencia que dejarías de hacerte?",
               "fechaDesbloqueo": "2026-05-13"
             },
             {
@@ -37,6 +40,7 @@
               "titulo": "El silencio",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "Buscamos fuera lo que ya llevamos dentro. Nos hemos acostumbrado tanto a seguir voces ajenas que el silencio nos asusta, cuando es el único lugar donde no tienes nada que exigirte.\n\nTe invito a parar el ruido para que tu propia claridad pueda, por fin, asomar. No necesitas que nadie te lleve de la mano; tu verdad ya sabe el camino, solo necesita que te detengas lo suficiente para volver a escucharla.\n\n¿Qué crees que descubrirías sobre ti si hoy dejaras de buscar respuestas fuera y te atrevieras a escuchar lo que dice tu propio silencio?",
               "fechaDesbloqueo": "2026-05-14"
             },
             {
@@ -45,6 +49,7 @@
               "titulo": "La silla vacía",
               "duracion": "",
               "audioUrl": "https://marioalonsopuig.com/wp-content/uploads/2026/05/M1-Jueves-La-silla-vacia-2.mp3",
+              "descripcion": "A veces vivimos tan rápido que olvidamos que el amor más profundo no es el que se siente, sino el que se entrega. Todos tenemos a esa persona que, con solo nombrarla, hace que algo se detenga en nuestro interior; alguien que es nuestro hogar, pero a quien a menudo miramos sin realmente ver.\n\nTe invito a hacer una pausa, a cerrar los ojos por un momento y a permitirte la valentía de sentir. No hace falta que hagas nada, solo que te des permiso para bajar la guardia y dejar que esa persona ocupe, por una vez, todo el espacio que se merece en tu corazón.\n\nEste es un rincón seguro para ser vulnerable, para recordar lo que de verdad importa y para dejar que tu corazón hable antes de que el ruido del mundo vuelva a encubrirlo.\n\nSi hoy fuera la última oportunidad para que tu amor fuera comprendido, ¿qué palabra o qué gesto elegirías para que esa persona reciba, por fin, toda la magnitud de lo que sientes?",
               "fechaDesbloqueo": "2026-05-15"
             }
           ]
@@ -58,6 +63,7 @@
               "titulo": "Tu momento de libertad",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-18"
             },
             {
@@ -66,6 +72,7 @@
               "titulo": "La semilla de la transformación",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-19"
             },
             {
@@ -74,6 +81,7 @@
               "titulo": "El muro que creamos",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-20"
             },
             {
@@ -82,6 +90,7 @@
               "titulo": "Aprender a soltar",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-21"
             },
             {
@@ -90,6 +99,7 @@
               "titulo": "Un paseo para la reflexión",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-22"
             }
           ]
@@ -103,6 +113,7 @@
               "titulo": "El impulso automático",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-25"
             },
             {
@@ -111,6 +122,7 @@
               "titulo": "Bajar el volumen de tu crítico interior",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-26"
             },
             {
@@ -119,6 +131,7 @@
               "titulo": "Los 90 segundos de una emoción",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-27"
             },
             {
@@ -127,6 +140,7 @@
               "titulo": "La pregunta que busca una nueva respuesta",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-28"
             },
             {
@@ -135,6 +149,7 @@
               "titulo": "Una nueva oportunidad",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-05-29"
             }
           ]
@@ -148,6 +163,7 @@
               "titulo": "El duro invierno",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-06-01"
             },
             {
@@ -156,6 +172,7 @@
               "titulo": "El despertador de la primavera",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-06-02"
             },
             {
@@ -164,6 +181,7 @@
               "titulo": "Los frutos del verano",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-06-03"
             },
             {
@@ -172,6 +190,7 @@
               "titulo": "Los cambios del otoño",
               "duracion": "",
               "audioUrl": "",
+              "descripcion": "",
               "fechaDesbloqueo": "2026-06-04"
             }
           ]
